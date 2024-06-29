@@ -127,12 +127,14 @@ body {
 
     .Apes_conteudo_nome{
     font-size: 1.5rem;
+    text-align: justify;
     font-family: "Krona One", sans-serif;
 }
 
 
     .Apes_conteudo_nome2{
     font-size: 1rem;
+    text-align: justify;
     font-family: "Montserrat", sans-serif;
 }
     .subtitulo{
