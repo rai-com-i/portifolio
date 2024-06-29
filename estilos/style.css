@@ -154,3 +154,12 @@ body {
     font-weight: 600;
     
 }
+
+.rodape{
+    color: #000000;
+    background-color:#22d4fd;
+    padding: 18px;
+    text-align: center;
+    font-family:"Montserrat", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
